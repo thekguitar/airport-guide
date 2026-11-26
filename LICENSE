@@ -1,0 +1,11 @@
+Copyright (c) 2026 Kike Dueñas. All rights reserved.
+
+This software and its source code are proprietary and confidential.
+No part of it may be copied, modified, distributed, or used without
+the express written permission of the copyright holder.
+
+Third-party data and components remain under their own licenses, including:
+- Building outlines: © OpenStreetMap contributors, ODbL 1.0
+  (https://opendatacommons.org/licenses/odbl/)
+- Mapbox maps and indoor data: © Mapbox, used under the Mapbox Terms of Service
+- Open-source npm packages: see each package's license in node_modules
